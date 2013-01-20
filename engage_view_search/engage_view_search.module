@@ -1,0 +1,8 @@
+<?php
+
+function engage_view_search_views_api() {
+  return array(
+    'api' => 2,
+    'path' => drupal_get_path('module', 'engage_view_search') . '/inc'
+  );
+}

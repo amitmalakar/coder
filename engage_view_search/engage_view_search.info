@@ -1,0 +1,13 @@
+; $Id: $
+name = engage_view_search
+description = custom module of engage_view_search.
+core = 6.x
+package = engage_view_search
+php = 5.1
+
+; Information added by drupal.org packaging script on 2011-09-28
+version = "6.x-3.11"
+core = "6.x"
+project = "engage_view_search"
+datestamp = "1305758217"
+
