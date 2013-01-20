@@ -1,3 +1,3 @@
 coder
 =====
-Auther: Krishna Kumar
+Author: Krishna Kumar
